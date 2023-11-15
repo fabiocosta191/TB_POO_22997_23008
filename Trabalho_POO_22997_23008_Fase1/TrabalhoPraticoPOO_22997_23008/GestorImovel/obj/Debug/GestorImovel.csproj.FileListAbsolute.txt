@@ -1,0 +1,8 @@
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\bin\Debug\GestorImovel.exe.config
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\bin\Debug\GestorImovel.exe
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\bin\Debug\GestorImovel.pdb
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\obj\Debug\GestorImovel.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\obj\Debug\GestorImovel.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\obj\Debug\GestorImovel.exe
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\obj\Debug\GestorImovel.pdb
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\bin\Debug\GestorImovel.xml

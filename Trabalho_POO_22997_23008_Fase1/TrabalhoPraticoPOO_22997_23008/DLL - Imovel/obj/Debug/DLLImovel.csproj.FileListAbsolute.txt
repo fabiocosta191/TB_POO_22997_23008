@@ -1,0 +1,7 @@
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\DLL - Imovel\bin\Debug\DLL - Imovel.dll
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\DLL - Imovel\bin\Debug\DLL - Imovel.pdb
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\DLL - Imovel\obj\Debug\DLLImovel.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\DLL - Imovel\obj\Debug\DLLImovel.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\DLL - Imovel\obj\Debug\DLL - Imovel.dll
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\DLL - Imovel\obj\Debug\DLL - Imovel.pdb
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\DLL - Imovel\bin\Debug\DLL - Imovel.xml
