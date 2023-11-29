@@ -1,0 +1,16 @@
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\bin\Debug\GestorImovel.exe.config
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\bin\Debug\GestorImovel.exe
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\bin\Debug\GestorImovel.pdb
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\obj\Debug\GestorImovel.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\obj\Debug\GestorImovel.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\obj\Debug\GestorImovel.exe
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\obj\Debug\GestorImovel.pdb
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\GestorImovel\bin\Debug\GestorImovel.xml
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\Trabalho_POO_22997_23008_Fase1\TrabalhoPraticoPOO_22997_23008\GestorImovel\bin\Debug\GestorImovel.exe.config
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\Trabalho_POO_22997_23008_Fase1\TrabalhoPraticoPOO_22997_23008\GestorImovel\bin\Debug\GestorImovel.xml
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\Trabalho_POO_22997_23008_Fase1\TrabalhoPraticoPOO_22997_23008\GestorImovel\bin\Debug\GestorImovel.exe
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\Trabalho_POO_22997_23008_Fase1\TrabalhoPraticoPOO_22997_23008\GestorImovel\bin\Debug\GestorImovel.pdb
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\Trabalho_POO_22997_23008_Fase1\TrabalhoPraticoPOO_22997_23008\GestorImovel\obj\Debug\GestorImovel.csproj.AssemblyReference.cache
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\Trabalho_POO_22997_23008_Fase1\TrabalhoPraticoPOO_22997_23008\GestorImovel\obj\Debug\GestorImovel.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\Trabalho_POO_22997_23008_Fase1\TrabalhoPraticoPOO_22997_23008\GestorImovel\obj\Debug\GestorImovel.exe
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\Trabalho_POO_22997_23008_Fase1\TrabalhoPraticoPOO_22997_23008\GestorImovel\obj\Debug\GestorImovel.pdb
