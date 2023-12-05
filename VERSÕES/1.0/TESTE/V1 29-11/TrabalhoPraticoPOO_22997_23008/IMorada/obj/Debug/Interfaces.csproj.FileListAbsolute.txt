@@ -1,0 +1,12 @@
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\Trabalho_POO_22997_23008_Fase1\TrabalhoPraticoPOO_22997_23008\IMorada\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\Trabalho_POO_22997_23008_Fase1\TrabalhoPraticoPOO_22997_23008\IMorada\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\Trabalho_POO_22997_23008_Fase1\TrabalhoPraticoPOO_22997_23008\IMorada\bin\Debug\Interfaces.dll
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\Trabalho_POO_22997_23008_Fase1\TrabalhoPraticoPOO_22997_23008\IMorada\bin\Debug\Interfaces.pdb
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\Trabalho_POO_22997_23008_Fase1\TrabalhoPraticoPOO_22997_23008\IMorada\obj\Debug\Interfaces.dll
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\Trabalho_POO_22997_23008_Fase1\TrabalhoPraticoPOO_22997_23008\IMorada\obj\Debug\Interfaces.pdb
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\V1 28-11\TrabalhoPraticoPOO_22997_23008\IMorada\bin\Debug\Interfaces.dll
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\V1 28-11\TrabalhoPraticoPOO_22997_23008\IMorada\bin\Debug\Interfaces.pdb
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\V1 28-11\TrabalhoPraticoPOO_22997_23008\IMorada\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\V1 28-11\TrabalhoPraticoPOO_22997_23008\IMorada\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\V1 28-11\TrabalhoPraticoPOO_22997_23008\IMorada\obj\Debug\Interfaces.dll
+C:\Users\luisf\Downloads\TB_POO_22997_23008-main\V1 28-11\TrabalhoPraticoPOO_22997_23008\IMorada\obj\Debug\Interfaces.pdb
