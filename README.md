@@ -1,6 +1,6 @@
 # TB_POO_22997_23008
 
-|Grupo|
+| |Grupo| |
 |----|-------|-----|
 |Autor| Fábio Rafael Gomes Costa | Luis Pedro Pereira Freitas|
 |Contato| a22997@alunos.ipca.pt | a23008@alunos.ipca.pt|
