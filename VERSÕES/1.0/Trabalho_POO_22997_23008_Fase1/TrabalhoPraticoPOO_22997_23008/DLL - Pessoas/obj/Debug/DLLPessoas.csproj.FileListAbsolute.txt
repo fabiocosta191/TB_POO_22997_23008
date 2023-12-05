@@ -1,0 +1,7 @@
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\DLL - Pessoas\bin\Debug\DLL - Pessoas.dll
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\DLL - Pessoas\bin\Debug\DLL - Pessoas.pdb
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\DLL - Pessoas\obj\Debug\DLLPessoas.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\DLL - Pessoas\obj\Debug\DLLPessoas.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\DLL - Pessoas\obj\Debug\DLL - Pessoas.dll
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\DLL - Pessoas\obj\Debug\DLL - Pessoas.pdb
+C:\Users\fabio\Desktop\trabalho_POO_22997\TrabalhoPraticoPOO_22997\DLL - Pessoas\bin\Debug\DLL - Pessoas.xml
